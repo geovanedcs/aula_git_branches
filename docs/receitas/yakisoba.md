@@ -5,18 +5,18 @@
 O Yakisoba Tradicional é uma receita oriental saborosa, colorida e cheia de aroma, perfeita para almoços ou jantares rápidos. Com macarrão firme, legumes frescos e molho saboroso, cada garfada oferece equilíbrio de textura e sabor. Fácil de preparar, essa receita transforma ingredientes simples em um prato delicioso, nutritivo e irresistível.
 
 ## INGREDIENTES
-300g de macarrão para yakisoba
-500g de filé de frango em cubos
-½ brócolis em floretes
-½ couve-flor em floretes
-1 cenoura em tiras finas
-¼ de repolho roxo em tiras finas
-1 xícara (chá) de shoyu
-½ xícara (chá) de água
-1 colher (sopa) de óleo de gergelim torrado
-2 colheres (chá) de maisena diluídas em 2 colheres (sopa) de água
-2 colheres (sopa) de óleo vegetal
-Cebolinha picada a gosto
+- 300g de macarrão para yakisoba
+- 500g de filé de frango em cubos
+- ½ brócolis em floretes
+- ½ couve-flor em floretes
+- 1 cenoura em tiras finas
+- ¼ de repolho roxo em tiras finas
+- 1 xícara (chá) de shoyu
+- ½ xícara (chá) de água
+- 1 colher (sopa) de óleo de gergelim torrado
+- 2 colheres (chá) de maisena diluídas em 2 colheres (sopa) de água
+- 2 colheres (sopa) de óleo vegetal
+- Cebolinha picada a gosto
 
 
 ## INSTRUÇÕES
