@@ -1,17 +1,22 @@
+# Pudim de Leite
+
+![Pudim de Leite](https://vovopalmirinha.com.br/wp-content/uploads/2016/06/pudim-1.jpg)
+
 ## Lista de ingredientes
-Para a calda
 
-1 xícara (chá) de açúcar
-½ xícara (chá) de água quente
+### Para a calda
+
+- 1 xícara (chá) de açúcar
+- ½ xícara (chá) de água quente
  
+### Para o pudim
 
-Para o pudim
+- 1 lata ou caixa (395 g) de leite condensado
+- 2 medidas (da lata ou caixa) de leite integral (aproximadamente 790 ml)
+- 3 ovos inteiros
 
-1 lata ou caixa (395 g) de leite condensado
-2 medidas (da lata ou caixa) de leite integral (aproximadamente 790 ml)
-3 ovos inteiros
+### Modo de preparo
 
-Modo de preparo
 1. Prepare a calda
 
 Em uma panela, coloque o açúcar.
@@ -67,58 +72,36 @@ Aqueça rapidamente o fundo da forma sobre a chama do fogão por alguns segundos
 
 Dicas para um pudim perfeito
 
-Bata a mistura apenas o necessário para evitar bolhas.
-Passe os ovos por uma peneira para reduzir o cheiro característico.
-Utilize água quente no banho-maria para um cozimento uniforme.
-Não deixe a água do banho-maria secar durante o preparo.
-Gelar bem o pudim antes de desenformar garante uma textura mais firme e cremosa.
+- Bata a mistura apenas o necessário para evitar bolhas.
+- Passe os ovos por uma peneira para reduzir o cheiro característico.
+- Utilize água quente no banho-maria para um cozimento uniforme.
+- Não deixe a água do banho-maria secar durante o preparo.
+- Gelar bem o pudim antes de desenformar garante uma textura mais firme e cremosa.
  
 
-Por que o pudim fica com furinhos?
+- Por que o pudim fica com furinhos?
 
 Os furinhos surgem quando a mistura incorpora muito ar ou quando o pudim é assado em temperatura muito alta. Para um pudim mais liso, bata pouco a massa e asse em temperatura moderada.
 
- 
-
-Posso fazer sem liquidificador?
+- Posso fazer sem liquidificador?
 
 Sim. Misture os ingredientes delicadamente com um fouet até obter uma mistura homogênea.
 
  
-
-Como saber se o pudim está pronto?
+- Como saber se o pudim está pronto?
 
 Espete um palito próximo à borda. Ele deve sair limpo, enquanto o centro pode permanecer levemente cremoso. O pudim termina de firmar durante o resfriamento.
 
- 
 
-Quanto tempo dura na geladeira?
+- Quanto tempo dura na geladeira?
 
 Conservado em recipiente fechado ou coberto com plástico-filme, o pudim dura até 5 dias na geladeira.
 
  
-
-Posso congelar?
+- Posso congelar?
 
 Sim. Depois de desenformado ou ainda na forma, congele por até 2 meses. Descongele na geladeira antes de servir.
 
- 
-
-Como evitar que a calda endureça?
+- Como evitar que a calda endureça?
 
 Após caramelizar o açúcar, adicione a água quente aos poucos e mexa até que todo o caramelo esteja dissolvido.
-
-
-
-INFORMAÇÃO NUTICIONAL (aproximada)
-
-Porção: 1 fatia (1/10 da receita)
-
-Calorias: 310 kcal
-
-Carboidratos: 43 g
-
-Proteínas: 8 g
-
-Gorduras: 11 g
-
