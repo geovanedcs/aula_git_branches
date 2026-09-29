@@ -1,17 +1,17 @@
 # Receita para demonstração de conflito
 
-## Versão da branch `main`
+## Versão da branch `conflito-merge-receita`
 
-Esta versão foi criada na main para entrar em conflito com a branch de demonstração.
+Esta versão foi criada na branch de demonstração para provocar um conflito de merge.
 
 ### Ingredientes
 
-- 2 xícaras de farinha
-- 1 ovo
-- 1 xícara de leite
+- 1 xícara de farinha
+- 2 ovos
+- 1/2 xícara de leite
 
 ### Modo de preparo
 
-1. Bata os ingredientes no liquidificador.
-2. Despeje a mistura em uma forma untada.
-3. Asse por 40 minutos.
+1. Misture os ingredientes em uma tigela.
+2. Coloque a massa em uma forma.
+3. Asse por 30 minutos.
